@@ -1,0 +1,3 @@
+set_expr_scoring -struct
+set_toggle_scoring -sv_enum
+set_covergroup -new_instance_reporting

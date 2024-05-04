@@ -1,0 +1,1 @@
+xrun -f ./hdl/scr1_pipe_ialu.f -sv -incdir ./hdl -gui -seed random -access +rwc -timescale 1ns/1ps -coverage all -covpartial -covfile ./coverage/cg.ccf
